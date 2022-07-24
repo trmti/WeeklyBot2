@@ -1,0 +1,9 @@
+{
+  "minTokenPrice": 0,
+  "gasPrice": "5",
+  "gasLimit": 100000,
+  "tokens": {
+    "tokenA": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+    "tokenB": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+  }
+}

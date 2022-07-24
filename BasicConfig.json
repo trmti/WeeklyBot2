@@ -1,0 +1,5 @@
+{
+  "myWallet": "0x000...",
+  "secretKey": "12345...",
+  "nodes": ["https://sample.com", "https://sample2.com"]
+}

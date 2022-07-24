@@ -1,0 +1,15 @@
+{
+  "name": "weeklybot2",
+  "version": "1.0.0",
+  "description": "このリポジトリでは週に一度、Bot を作成して追加していきます。<br> In this repository, I make a bot once a week. <br><br>",
+  "main": "index.js",
+  "scripts": {
+    "smartSwap": "node ./SmartSwap/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.6.9"
+  }
+}
